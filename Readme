@@ -1,1 +1,1 @@
-we study sagemath in this space
+sage -n jupyterlab --allow-root
